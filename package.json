@@ -1,5 +1,5 @@
 {
-  "name": "0power-dev",
+  "name": "xcode-dev",
   "version": "0.0.0",
   "scripts": {
     "serve": "vite --host",
